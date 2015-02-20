@@ -1,0 +1,18 @@
+[ 2015-02-19 17:49:36.2797 7050/7fe4506b5780 agents/Watchdog/Main.cpp:538 ]: Options: { 'analytics_log_user' => 'shaggy', 'cleanup_pidfiles' => 'L3RtcC9wYXNzZW5nZXItc3RhbmRhbG9uZS5sam43MW0vdGVtcF9kaXJfdG91Y2hlci5waWQ=', 'default_group' => 'shaggy', 'default_python' => 'python', 'default_ruby' => '/home/shaggy/.rvm/gems/ruby-2.2.0@ctest/wrappers/ruby', 'default_user' => 'shaggy', 'log_level' => '0', 'max_pool_size' => '6', 'passenger_root' => '/tmp/passenger-standalone.ljn71m/locations.ini', 'passenger_version' => '4.0.59', 'pool_idle_time' => '300', 'prestart_urls' => 'aHR0cDovLzAuMC4wLjA6MzAwMAA=', 'temp_dir' => '/tmp', 'union_station_gateway_address' => 'gateway.unionstationapp.com', 'union_station_gateway_port' => '443', 'user_switching' => 'false', 'web_server_passenger_version' => '4.0.59', 'web_server_pid' => '7049', 'web_server_type' => 'nginx', 'web_server_worker_gid' => '-1', 'web_server_worker_uid' => '-1' }
+[ 2015-02-19 17:49:36.2871 7053/7f0b3b899780 agents/HelperAgent/Main.cpp:650 ]: PassengerHelperAgent online, listening at unix:/tmp/passenger.1.0.7049/generation-0/request
+[ 2015-02-19 17:49:36.2984 7059/7fe57cd6f7c0 agents/LoggingAgent/Main.cpp:321 ]: PassengerLoggingAgent online, listening at unix:/tmp/passenger.1.0.7049/generation-0/logging
+[ 2015-02-19 17:49:36.2987 7050/7fe4506b5780 agents/Watchdog/Main.cpp:728 ]: All Phusion Passenger agents started!
+App 7087 stdout: 
+[ 2015-02-19 17:49:49.5006 7053/7f0b3b7b3700 Pool2/SmartSpawner.h:298 ]: Preloader for /home/scripts/ctest started on PID 7087, listening on unix:/tmp/passenger.1.0.7049/generation-0/backends/preloader.q08m5e
+App 7105 stdout: 
+App 7105 stdout: asdfasdf
+App 7105 stdout: asdfasdf
+App 7105 stdout: asdfasdf
+App 8816 stdout: 
+[ 2015-02-19 18:27:05.3310 7053/7f0b3b7f4700 Pool2/SmartSpawner.h:298 ]: Preloader for /home/scripts/ctest started on PID 8816, listening on unix:/tmp/passenger.1.0.7049/generation-0/backends/preloader.80lurh
+App 8836 stdout: 
+App 7105 stdout: asdfasdf
+App 7105 stdout: asdfasdf
+App 7105 stdout: 
+App 7105 stdout: vistors index
+App 8985 stdout: 
